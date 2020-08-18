@@ -70,10 +70,10 @@ namespace StenSaksPapir
         {
             playerImage.Source = scissorsImgSource;
             playerScissors = true;
-            thinking = false;//aaayy
+            thinking = false;
             pc();
         }
-        // This is not me
+        // This is n
         private void pc()
         {
             rockBtn.IsEnabled = false;

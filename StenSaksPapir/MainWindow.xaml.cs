@@ -70,7 +70,7 @@ namespace StenSaksPapir
         {
             playerImage.Source = scissorsImgSource;
             playerScissors = true;
-            thinking = false;
+            thinking = false;//aaayy
             pc();
         }
         // This is not me

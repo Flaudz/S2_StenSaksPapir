@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nico936d\\Documents\\S-2\\Uge_33\\Onsdag-StenSaksPapir\\StenSaksPapir\\StenSaksPapir.csproj",
+      "projectUniqueName": "C:\\Users\\nico936d\\Documents\\S-2\\Uge_33\\Onsdag-StenSaksPapir\\S2_StenSaksPapir\\StenSaksPapir\\StenSaksPapir.csproj",
       "projectName": "StenSaksPapir",
-      "projectPath": "C:\\Users\\nico936d\\Documents\\S-2\\Uge_33\\Onsdag-StenSaksPapir\\StenSaksPapir\\StenSaksPapir.csproj",
+      "projectPath": "C:\\Users\\nico936d\\Documents\\S-2\\Uge_33\\Onsdag-StenSaksPapir\\S2_StenSaksPapir\\StenSaksPapir\\StenSaksPapir.csproj",
       "packagesPath": "C:\\Users\\nico936d\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nico936d\\Documents\\S-2\\Uge_33\\Onsdag-StenSaksPapir\\StenSaksPapir\\obj\\",
+      "outputPath": "C:\\Users\\nico936d\\Documents\\S-2\\Uge_33\\Onsdag-StenSaksPapir\\S2_StenSaksPapir\\StenSaksPapir\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -73,7 +73,7 @@ namespace StenSaksPapir
             thinking = false;
             pc();
         }
-
+        // This is not me
         private void pc()
         {
             rockBtn.IsEnabled = false;

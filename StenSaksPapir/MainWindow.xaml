@@ -1,0 +1,18 @@
+﻿<Window x:Class="StenSaksPapir.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StenSaksPapir"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="rockBtn"  Content="Rock" Margin="150,0,0,160" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="80" Click="rockBtn_Click"/>
+        <Button x:Name="paiperBtn" Content="Paiper" Margin="150,0,0,110" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="80" Click="paiperBtn_Click"/>
+        <Button x:Name="scissorsBtn" Content="Scissors" Margin="150,0,0,60" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="80" Click="scissorsBtn_Click"/>
+        <Label x:Name="scoreLabel" Content="Score: " HorizontalAlignment="Right" Margin="0,0,170,144" VerticalAlignment="Bottom"/>
+        <Label x:Name="pointLabel" Content="0" HorizontalAlignment="Right" Margin="0,0,150,144" VerticalAlignment="Bottom"/>
+        <Image x:Name="playerImage" HorizontalAlignment="Left" Height="237" VerticalAlignment="Top" Width="380" Stretch="Uniform" StretchDirection="DownOnly"/>
+        <Image x:Name="pcImage" HorizontalAlignment="Right" Height="237" VerticalAlignment="Top" Width="380" Margin="0,0,-2,0" Stretch="Uniform"/>
+    </Grid>
+</Window>
